@@ -20,10 +20,9 @@ Click the one which describes you:
 - [I've never heard of Bitcoin before and have no idea what's going on.](http://www.bitcoinhivemind.com/presentations/what-is-hivemind.pdf)
 - [I'm familiar with Bitcoin 2.0 projects.](http://bitcoinhivemind.com/faq/#what-makes-truthcoin-different)
 
+### GitHub
 
-### WARNING: The "Hivemind ICO"
-
-Please disregard any message you may read about a "Hivemind ICO". These messages are all fabrications. These are written by fraudsters. Hivemind is in R&D stage, and this notice will be removed when that changes.
+Check us out [on GitHub](https://github.com/LayerTwo-Labs/truthcoin-dc).
 
 ### Popular Talks
 
